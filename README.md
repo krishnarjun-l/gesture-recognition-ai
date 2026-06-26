@@ -19,7 +19,9 @@ Recognizing gestures in video requires capturing both **spatial** (image feature
 * **Optimization:** Used Batch Normalization, Dropout, and various optimizers (SGD, Adam) to prevent overfitting.
 
 ## 📂 Repository Structure
+...
 ├── CaseStudy_GestureRecognition.ipynb
 ├── write-up_gesture_recognization.docx
 ├── requirements.txt
 └── README.md
+...
